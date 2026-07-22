@@ -1,3 +1,5 @@
+"""读取本地私密 Key 配置。"""
+
 import json
 import os
 

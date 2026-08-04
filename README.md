@@ -39,7 +39,7 @@
 
 ### 2. 旅游规划 Agent
 
-`travel_node` 负责旅游路线规划，并通过 `MultiServerMCPClient` 接入高德地图 MCP；节点内部使用 ReAct Agent，让模型可以在回答前调用外部地图工具。
+`travel_node` 负责旅游路线规划，并通过 `MultiServerMCPClient` 接入高德地图MCP；节点内部使用 ReAct Agent，让模型可以在回答前调用外部地图工具。
 
 ### 3. 对联生成 Agent
 
